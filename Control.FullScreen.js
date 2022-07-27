@@ -1,4 +1,4 @@
-
+test2
 (function (root, factory) {
 	if (typeof define === 'function' && define.amd) {
 		define('screenfull', factory);
